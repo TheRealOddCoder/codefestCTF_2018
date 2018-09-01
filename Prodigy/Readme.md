@@ -22,5 +22,11 @@ The puts() function didn't show promise.
 This means the flag is somewhere else. Objdump revealed an interesting function getFlag()
 
 
+![getflag](https://user-images.githubusercontent.com/42334661/44945458-930e6b80-ae07-11e8-8a23-f509427fb848.png)
+
+
+Setting breakpoint at the start of the program and going into the getFlag(), the flag is present in the stack.
+
+
 
 
