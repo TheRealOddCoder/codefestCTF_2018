@@ -1,6 +1,6 @@
 # Typing Master
-## Difficulty : Easy
-## Points : 50
+### Difficulty : Easy
+### Points : 50
 
 # Description
 If you think you have it in you, connect now to 34.216.132.109 9093 and prove your mettle.
