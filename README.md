@@ -1,6 +1,6 @@
 # codefestCTF_2018
 
-I participated in codefestCTF 2018 as [iamoddcoder](https://www.hackerrank.com/contests/codefest-ctf-18/leaderboard) and finished in 17th place in the leaderboard. The entire CTF was fun and engaging(not very much guessing involved).
+I participated in codefestCTF 2018 as [iamoddcoder](https://www.hackerrank.com/contests/codefest-ctf-18/leaderboard) and finished in 17th (joint)place in the leaderboard. The entire CTF was fun and engaging(not very much guessing involved).
 
 This writeup section consists of writeups for few of the interesting tasks
 ## Typing master - 50 points
