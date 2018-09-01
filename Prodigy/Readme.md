@@ -3,7 +3,7 @@
 ### Points : 100
 
 # Description
-Self proclaimed prodigy Gourav, has just learnt about binaries and compiler. He believes he can hide anything in the binary unless he doesn't print it. Show him that he is wrong.
+Self proclaimed prodigy Gourav, has just learnt about binaries and compiler. He believes he can hide anything in the [binary](https://github.com/TheRealOddCoder/codefestCTF_2018/blob/master/Prodigy/prodigy) unless he doesn't print it. Show him that he is wrong.
 
 # Solution
 Lets fire-up gdb.
