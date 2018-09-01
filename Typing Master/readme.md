@@ -22,3 +22,6 @@ But when I sent it, there was no flag sent back to me.
 That's weird. Then, I found that i forgot to add newline character **'\x0a'**.
 Appending the newline character (either '\n' or '\x0a'), gave me the flag
 
+![screenshot 352](https://user-images.githubusercontent.com/42334661/44945168-f052ee80-ae00-11e8-9de4-4742c2861d56.png)
+
+Flag : **CodefestCTF{1_s33_y0u_4r3_a_m4n_0f_sp33d}**
