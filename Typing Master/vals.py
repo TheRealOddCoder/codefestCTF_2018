@@ -26,7 +26,7 @@ l1=""
 l2=""
 t1= ""
 t2 = ""
-print(string)
+#print(string)
 for i in range(1,15):
     if(len(string[i]) == 1):
         if(count == 0):
