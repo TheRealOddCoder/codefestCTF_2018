@@ -8,3 +8,9 @@ Self proclaimed prodigy Gourav, has just learnt about binaries and compiler. He 
 # Solution
 Lets fire-up gdb.
 The main function didn't give much information. It just showed the puts() function called.
+
+![gdb_prodigy_1](https://user-images.githubusercontent.com/42334661/44945426-ef24c000-ae06-11e8-8287-6b2739996486.png)
+
+The puts() function didn't show promise.
+
+
